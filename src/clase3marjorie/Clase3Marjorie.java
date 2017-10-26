@@ -5,9 +5,12 @@
  */
 package clase3marjorie;
 
-/**
- *
+/****************************************************************************************************************
+ *Marjorie Castillo Diaz
  * @author LAB10
+ * Fecha:Clase3Marjorie
+ * Responsabilidad:Clase Principal
+ * *****************************************************************************
  */
 public class Clase3Marjorie {
 
